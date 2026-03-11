@@ -4,4 +4,4 @@ This repository hosts the research report written during my internship at the In
 
 - **Author:** Marcello Estevão, Ugras Ulku, Gene Ma, Phoebe Feng, Leila Hamilton, Meshal Alahmadi, Runshi Xue
 - **Date:** March 3, 2026
-- **File:** [europes-second-china-shock.pdf](./europes-second-china-shock.pdf)
+- **File:** [europes-second-china-shock.pdf](./Europe's-Second-China-Shock.pdf)
